@@ -1,4 +1,4 @@
-# personal-website-template
+# Owen Changhao Li - Personal Website
 
 A simple one page template suited for personal and portfolio pages. 
 
